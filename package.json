@@ -1,0 +1,23 @@
+{
+  "name": "webscreenshot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trifit/webscreenshot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trifit/webscreenshot/issues"
+  },
+  "homepage": "https://github.com/Trifit/webscreenshot#readme",
+  "dependencies": {
+    "puppeteer-core": "^1.19.0"
+  }
+}
